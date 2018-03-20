@@ -96,7 +96,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.chriniko.db.populator.example.Application</mainClass>
+                            <mainClass>com.chriniko.example.properties.filecreator.Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
