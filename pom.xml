@@ -39,7 +39,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.openbet.platform.activityfeeds.test.gi.mt.wrapper.Application</mainClass>
+                            <mainClass>com.chriniko.example.properties.filecreator.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
