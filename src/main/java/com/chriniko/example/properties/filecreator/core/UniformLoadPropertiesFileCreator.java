@@ -35,7 +35,7 @@ public class UniformLoadPropertiesFileCreator implements PropertiesFileCreator {
             "dbpopulator.concurrency=1\n" + // Note: change depending on your needs.
             "\n" +
             "# duration is in seconds.\n" +
-            "dbpopulator.duration=30\n" +
+            "dbpopulator.duration=60\n" +
             "\n" +
             "# traffic target is the amount of records to populate the db with.\n" +
             "dbpopulator.trafficTarget=%d\n" + // Note: change depending on your needs. (eg: 1100 traffic across 50 tenants, so 1100/50=22)
